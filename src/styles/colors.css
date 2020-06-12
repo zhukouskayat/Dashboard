@@ -1,0 +1,105 @@
+body {
+    background-image: url(/src/img/background-01.png);
+    background-size: auto;
+    background-color: #e9f1ff;
+}
+
+#container {
+    box-shadow: 0 0 30px #41467a;
+}
+
+#header-1 {
+    background-color: white;
+    color: #4e5492;
+}
+
+#header-2 {
+    background-color: #e9f1ff;
+}
+
+#header-2 span {
+    color: white;
+    background-color: #4e5492;
+    box-shadow: 0 0 10px #4e5492;
+}
+
+#header-3 {
+    background-color: white;
+}
+
+#header-3 span {
+    color: #9c9c9c;
+    background-color: #e9f1ff;
+}
+
+#header-3 img {
+    background-color: #4e5492;
+    box-shadow: 0 0 10px #4e5492;
+}
+
+#content-1 {
+    background-color: white;
+}
+
+.name {
+    color: #9c9c9c;
+}
+
+.name1 {
+    color: #9c9c9c;
+}
+
+#content-2 {
+    background-color: #e9f1ff;
+}
+
+#flex {
+    background-color: #e9f1ff;
+}
+
+#flex div {
+    background-color: #816fc2;
+    box-shadow: 0 0 10px #3f447a;
+}
+
+.flex-1 p {
+    color: white;
+}
+
+p.view {
+    background-color: white;
+    border-color: #4e5492;
+    color: #4e5492;
+    box-shadow: 0 0 10px #e9f1ffe9f1ff;
+}
+
+.flex2-2 {
+    background-color: white;
+    box-shadow: 0 0 10px #d2c6ff;
+}
+
+#content-3 {
+    background-color: white;
+}
+
+#content-3 div {
+    background-color: #e9f1ff;
+}
+
+#footer-1 {
+    background-color: white;
+}
+
+#footer-2 {
+    background-color: #e9f1ff;
+}
+
+#footer-3 {
+    background-color: white;
+}
+
+#footer-3 span {
+    color: white;
+    background-color: #4e5492;
+    box-shadow: 0 0 10px #4e5492;
+}
